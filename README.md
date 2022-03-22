@@ -39,3 +39,6 @@ Install the following Python packages in your development environment:
 - time 
 - uuid
 
+## Get Support 
+- https://community.rapyd.net 
+- https://support.rapyd.net 
