@@ -1,5 +1,8 @@
-# whatsapp-checkout - INTERNAL HACKATHON WINNER
+# Rapyd WhatsApp Checkout - INTERNAL HACKATHON WINNER
 Learn how to send requests and catch webhooks using Rapyd Checkout and WhatsApp.
+
+## Context 
+Last July, Rapyd held a 24-hour internal hackathon to compete and build on ideas using the Rapyd API. One of our winning teams helped build and present a WhatsApp payment application for businesses to communicate with their customers while allowing customers to make an order and accept payments right within the chat. 
 
 
 ## How to set up Rapyd for Restaurants Via WhatsApp 
